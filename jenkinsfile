@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage("This is stage 1") {
       steps {
-        // Cool stuff goes here!
+        // Cool stuff goes here!!
       }
     }
 
