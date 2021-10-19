@@ -211,3 +211,14 @@
     top: -6px;
     border-radius: 50%;
   }
+
+
+  button{
+      border-radius: 12px;
+      color: #27ae60;
+      background: #fff;
+      height: 40px;
+      width: 120px;
+      text-align: center;
+      justify-content: center;
+  }
